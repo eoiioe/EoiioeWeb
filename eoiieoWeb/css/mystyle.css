@@ -1,0 +1,11 @@
+body{
+	background: url(../img/bg-img.jpg) repeat scroll top left;
+}
+.touming{
+	filter:alpha(Opacity=80);-moz-opacity:0.8;opacity: 0.8;
+}
+
+
+.butouming{
+	position: relative;
+}
